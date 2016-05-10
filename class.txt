@@ -1,0 +1,10 @@
+cel_file	cell_type
+GSM881040_6_9E_HG_U133_PLUS_2_	human iPS cell-derived mesoangioblasts (HIDEMs)
+GSM881046_1_D201_HG_U133_PLUS_2_	human mesoangioblasts
+GSM881044_8_MSTA_HG_U133_PLUS_2_	human iPS cell-derived mesoangioblasts (HIDEMs)
+GSM881041_4_401_HG_U133_PLUS_2_	human iPS cell-derived mesoangioblasts (HIDEMs)
+GSM881039_5_465_HG_U133_PLUS_2_	human iPS cell-derived mesoangioblasts (HIDEMs)
+GSM881045_D_203_HG_U133_PLUS_2_	human mesoangioblasts
+GSM881042_7_H1_HG_U133_PLUS_2_	human iPS cell-derived mesoangioblasts (HIDEMs)
+GSM881043_9_VF_HG_U133_PLUS_2_	human iPS cell-derived mesoangioblasts (HIDEMs)
+GSM881047_2_D202_HG_U133_PLUS_2_	human mesoangioblasts
