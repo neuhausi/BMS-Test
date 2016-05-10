@@ -1,7 +1,7 @@
 # BMS-Test
 PLEASE NOTE: The content of this file and all test files included are properties of BMS and for your eyes only. We kindly request that you do not share/give any files or contained information to anyone else.
 
-Hi!
+Please fork this repository and and do a pull request once you are finished. Also, please send an email to mingyi.liu@bms.com indicating that you are done. Good Luck!
 
 You can choose to work on any one of the questions below, or more as time permits:<br>
 <ol>
