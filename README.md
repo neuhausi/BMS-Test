@@ -3,7 +3,7 @@ PLEASE NOTE: The content of this file and all test files included are properties
 
 Please fork this repository and and do a pull request once you are finished. Also, please send an email to mingyi.liu@bms.com indicating that you are done. Good Luck!
 
-You can choose to work on any one of the questions below, or more as time permits:<br>
+You can choose to work on any one of the questions below, or more as time permits: (You have one hour)<br>
 <ol>
   <div style="display:none"><li><a href="#d3">Perl text parsing & implement d3.js visualization</a></li></div>
   <li><a href="#r">R</a></li>
