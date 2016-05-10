@@ -124,6 +124,4 @@ Please enter your JS code in the phonevalidate.html.  Please make sure that:
   4. When user entered 5 digits in the input box "zip", the input caret should jump to "zip1"
 
 </pre></div>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b
-r><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><
-br><br><br><br><br><br>
+<br><br><br><br><br>
