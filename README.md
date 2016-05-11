@@ -23,6 +23,7 @@ You can choose to work on any one of the questions below, or more as time permit
       Python: Version 2.4.x or later
       Bioperl or Biopython: Any version
       Java: Version 1.6.0 or later
+      git client: Any Version
       Web browser: current Chrome/Firefox
       Text editor: your favorite
     </pre>
@@ -91,7 +92,7 @@ data in a volcano plot
 </pre>
 </div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<div id="p"><b>Perl question</b>: Write code to report the reverse complement of the CDS in each sequence (package like Bioperl is allowed).<pre>
+<div id="p"><b>Perl question</b>: Write code to report the reverse complement of the CDS in each sequence (package like Bioperl is allowed). Any other language is also allowed.<pre>
 
 The following file has two RNA sequences:
 
@@ -101,7 +102,7 @@ The following file has two RNA sequences:
 
 </pre>
 </div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<div id="p1"><b>Perl question</b>: Write code to find the longest ORF in each of the sequences in the file below (package like Bioperl is allowed).</a><pre>
+<div id="p1"><b>Perl question</b>: Write code to find the longest ORF in each of the sequences in the file below (package like Bioperl is allowed). Any other language is also allowed.</a><pre>
 
 The following file has two RNA sequences:
 
