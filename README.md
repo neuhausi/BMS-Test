@@ -35,7 +35,7 @@ You can choose to work on any one of the questions below, or more as time permit
 <hr>
 </div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<div id="java0"><b>Java Question</b>: <br>
+<div id="java0"><b>Java Question 1</b>: <br>
 Read the Tab delimited file "taskDates.txt" and write a file called "dates.sql", which contains insert sql instructions to be run later by using sqlplus.  No need to connect to the database and run.  Just create the dat
 es.sql file.
 
@@ -65,14 +65,14 @@ Must have the following:
 </pre>
 </div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<div id="java"><b>Java Question 1</b>: <br>
+<div id="java"><b>Java Question 2</b>: <br>
 Say that you want to define a new custom Java class, and have lists of objects of your custom class be sortable by your own custom sort function. How would you define your class to enable it to be sortable? Demonstrate 
 by defining a simple "Person" class with fields first name, last name, and age and enable it to be sortable by age. Show how you would sort a list of these Person objects by age.
 
 
 </div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<div id="java1"><b>Java Question 2</b>: <br>
+<div id="java1"><b>Java Question 3</b>: <br>
 Write a Java method that finds "seed" hits in a genomic sequence, similar to how BLAST does. In other words, it takes a String representing a (long) genomic sequence to be searched, another string which is the "seed" to
  find matches of in the genomic sequence (perfect matches or with some limited mismatching positions allowed), and an integer telling how many mismatch positions at max are allowed in the "seed" matches. The method retu
 rns all the positions in the genomic sequence where "seed" matches were found. What is the time complexity of your code?
