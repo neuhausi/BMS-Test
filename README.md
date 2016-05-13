@@ -92,7 +92,7 @@ data in a volcano plot
 </pre>
 </div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<div id="p"><b>Perl/Python/Other question</b>: Write code to report the reverse complement of the CDS in each sequence (package like Bioperl is allowed). Any other language is also allowed.<pre>
+<div id="p"><b>Perl/Python/Other question</b>: Write code to report the reverse complement of the CDS in each sequence (package like Bioperl is allowed). Any other language/package is also allowed.<pre>
 
 The following file has two RNA sequences:
 
@@ -102,7 +102,7 @@ The following file has two RNA sequences:
 
 </pre>
 </div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<div id="p1"><b>Perl/Python/Other question</b>: Write code to find the longest ORF in each of the sequences in the file below (package like Bioperl is allowed). Any other language is also allowed.</a><pre>
+<div id="p1"><b>Perl/Python/Other question</b>: Write code to find the longest ORF in each of the sequences in the file below (package like Bioperl is allowed). Any other language/package is also allowed.</a><pre>
 
 The following file has two RNA sequences:
 
