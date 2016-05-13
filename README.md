@@ -9,8 +9,8 @@ You can choose to work on any one of the questions below, or more as time permit
   <li><a href="#java0">Java Question 1</a></li>
   <li><a href="#java">Java Question 2</a></li>
   <li><a href="#java1">Java Question 3</a></li>
-  <li><a href="#p">Perl/Python - revcomp CDS</a></li>
-  <li><a href="#p1">Perl/Python - longest ORF</a></li>
+  <li><a href="#p">Perl/Python/Other - revcomp CDS</a></li>
+  <li><a href="#p1">Perl/Python/Other - longest ORF</a></li>
   <div><li><a href="#j">Javascript - phone # validator</a></li></div>
 </ol>
 
@@ -92,7 +92,7 @@ data in a volcano plot
 </pre>
 </div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<div id="p"><b>Perl question</b>: Write code to report the reverse complement of the CDS in each sequence (package like Bioperl is allowed). Any other language is also allowed.<pre>
+<div id="p"><b>Perl/Python/Other question</b>: Write code to report the reverse complement of the CDS in each sequence (package like Bioperl is allowed). Any other language is also allowed.<pre>
 
 The following file has two RNA sequences:
 
@@ -102,7 +102,7 @@ The following file has two RNA sequences:
 
 </pre>
 </div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<div id="p1"><b>Perl question</b>: Write code to find the longest ORF in each of the sequences in the file below (package like Bioperl is allowed). Any other language is also allowed.</a><pre>
+<div id="p1"><b>Perl/Python/Other question</b>: Write code to find the longest ORF in each of the sequences in the file below (package like Bioperl is allowed). Any other language is also allowed.</a><pre>
 
 The following file has two RNA sequences:
 
