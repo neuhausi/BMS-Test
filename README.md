@@ -6,9 +6,9 @@ Please fork this repository and and do a pull request once you are finished. Als
 You can choose to work on any one of the questions below, or more as time permits: (You have one hour)<br>
 <ol>
   <li><a href="#r">R</a></li>
-  <li><a href="#java0">Java Question</a></li>
-  <li><a href="#java">Java Question 1</a></li>
-  <li><a href="#java1">Java Question 2</a></li>
+  <li><a href="#java0">Java Question 1</a></li>
+  <li><a href="#java">Java Question 2</a></li>
+  <li><a href="#java1">Java Question 3</a></li>
   <li><a href="#p">Perl/Python - revcomp CDS</a></li>
   <li><a href="#p1">Perl/Python - longest ORF</a></li>
   <div><li><a href="#j">Javascript - phone # validator</a></li></div>
